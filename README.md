@@ -51,3 +51,9 @@ BookShare is a web application built with the MERN stack (MongoDB, Express.js, R
   - Storage for book cover images.
 
 ---
+
+## 📣 Feedback
+
+If you have any feedback, please reach out to me at bhangeaditya13@gmail.com
+
+---
